@@ -5,6 +5,6 @@
 - I've completed various projects, internships and actively engage in continuous learning to stay up-to-date with the latest trends and technologies in the field.
 
 - I'm open to collaborating on data analysis projects, including those related to SQL, Python, and Excel. Please feel free to connect with me via 
-- [LinkedIn](http://linkedin.com/in/sogbesanteni) or [Twitter](https://twitter.com/zezaht).
+[LinkedIn](http://linkedin.com/in/sogbesanteni) or [Twitter](https://twitter.com/zezaht).
 
 - Additionally, you can check out my [Medium](https://medium.com/@Teniloluwa_) page, where I write about my experiences and insights as a Data Analyst.
